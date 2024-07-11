@@ -28,4 +28,4 @@ To use TextUtils, simply enter your desired text in the input box and choose fro
 Purpose:
 This project demonstrates the power and flexibility of React.js in creating dynamic and user-centric web applications. It serves as a practical tool for everyday text processing needs while showcasing modern web development techniques.
 
-link :
+link : https://kshitij8080.github.io/TextUtils-React/
